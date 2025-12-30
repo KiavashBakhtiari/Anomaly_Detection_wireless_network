@@ -21,9 +21,4 @@ This project implements ML-based anomaly detection for wireless networks using s
 
 
 
-\## نحوه استفاده
-
-1\. نصب پیش‌نیازها:
-
-
 
